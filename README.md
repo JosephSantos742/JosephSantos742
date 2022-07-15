@@ -1,4 +1,5 @@
 Estudando programação e procurando uma oportunidade para trabalhar nessa área.
+
 Atualmente aprendendo Java, HTML e CSS.
 
 
