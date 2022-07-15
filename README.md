@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JosephSantos742
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Estudando programação e procurando uma oportunidade para trabalhar nessa área.
+Atualmente aprendendo Java, HTML e CSS.
+
+
 
 <!---
 JosephSantos742/JosephSantos742 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
