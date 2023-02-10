@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando programação e procurando uma oportunidade para trabalhar nessa área.<br><br>Atualmente aprendendo front-end porém o foco em back-end com Java e C#.
+Estudando programação e a procura da primeira oportunidade de atuar área de desenvolvimento.<br><br>Atualmente estudando back-end com Java e C#.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Estudando programação e procurando uma oportunidade para trabalhar nessa área
 ![](https://github-readme-stats.vercel.app/api?username=JosephSantos742&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JosephSantos742&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSantos742&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JosephSantos742&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JosephSantos742&icon=2&color=1)](https://visitcount.itsvg.in)
